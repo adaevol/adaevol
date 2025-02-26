@@ -1,3 +1,5 @@
+https://gifdb.com/images/high/nyan-cat-rbnlqzxbgvei37v8.gif
+
 <h3 align="center"></h3>
 <p align="center">🚀 Scripting | Automation | Development<br> 💻 Bash, Rust & Python are my tools of choice.<br>🔍 Always exploring new ways to optimize workflows and build cool projects.</p>
 
